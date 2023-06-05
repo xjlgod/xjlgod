@@ -7,4 +7,4 @@
 - 📫 How to reach me: jingliu_xiong@foxmail.com
 - ⚡ Fun fact: open source project, middleware, financial technology
 
-[我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xjlgod)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
