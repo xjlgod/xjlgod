@@ -8,3 +8,12 @@
 - ⚡ Fun fact: open source project, middleware, financial technology
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xjlgod)]()
+
+<p align="right">
+  <img align="left" src="https://stats.justsong.cn/api/zhihu?username=xiong-jing-liu" />
+</p>
+
+
+<p align="left">
+  <img align="left" src="https://stats.justsong.cn/api/leetcode?username=human-garbage&cn=true" />
+</p>
