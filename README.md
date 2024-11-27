@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java back end development
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything you want
-- 📫 How to reach me: jingliu_xiong@foxmail.com
+- 📫 How to reach me: xjlgod@apache.org
 - ⚡ Fun fact: open source project, middleware, financial technology
 - 📰 Blog address: https://xjl.info
 
