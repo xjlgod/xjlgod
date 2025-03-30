@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on financial technology
-- 🌱 I’m currently learning java back end development
+- 🌱 I’m currently learning back development, AI, AI Service
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything you want
 - 📫 How to reach me: xjlgod@apache.org
